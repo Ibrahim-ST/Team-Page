@@ -1,0 +1,12 @@
+[
+  { "id": "01", "name": "Cambridge University" },
+  { "id": "02", "name": "Harvard University" },
+  { "id": "03", "name": "University of California" },
+  { "id": "04", "name": "ETH Zurich" },
+  { "id": "05", "name": "Max Plank" },
+  { "id": "06", "name": "University of Edinberg" },
+  { "id": "07", "name": "University of Oxford" },
+  { "id": "08", "name": "Johns Hopkins University" },
+  { "id": "09", "name": "The University of Chicago" },
+  { "id": "10", "name": "Michigan State University" }
+]

@@ -1,0 +1,51 @@
+[
+    {
+      "name": "John Doe",
+      "university": "University of Example",
+      "image": "http://www.sciastra.com/new_admin/teams/files/Siddharth_Bhatt_physics.jpg",
+      "title": "Software Engineer"
+    },
+    {
+      "name": "Jane Smith",
+      "university": "Example Tech University",
+      "image": "http://www.sciastra.com/new_admin/teams/files/Kedar_Tornekar1.jpg",
+      "title": "Product Manager"
+    },
+    {
+      "name": "Michael Johnson",
+      "university": "Tech Institute",
+      "image": "http://www.sciastra.com/new_admin/teams/files/Sehasree_Mohanta.jpg",
+      "title": "Data Scientist"
+    },
+    {
+      "name": "Emily Williams",
+      "university": "Innovation College",
+      "image": "http://www.sciastra.com/new_admin/teams/files/Piyush_Verma_biology.jpg",
+      "title": "UX/UI Designer"
+    },
+    {
+      "name": "Robert Brown",
+      "university": "Design Academy",
+      "image": "http://www.sciastra.com/new_admin/teams/files/Parth_Singh.jpg",
+      "title": "Graphic Designer"
+    },
+    {
+      "name": "Sophia Martinez",
+      "university": "Art & Media Institute",
+      "image": "http://www.sciastra.com/new_admin/teams/files/Abhay_Gupta_physics.jpg",
+      "title": "Content Writer"
+    },
+    {
+      "name": "William Taylor",
+      "university": "Business School",
+      "image": "http://www.sciastra.com/new_admin/teams/files/SHRUTI_GUPTA_chemistry.jpg",
+      "title": "Marketing Specialist"
+    },
+    {
+      "name": "Olivia Anderson",
+      "university": "Communication University",
+      "image": "http://www.sciastra.com/new_admin/teams/files/Adityarup_Laha_mathematics.jpg",
+      "title": "Public Relations Manager"
+    }
+  ]
+  
