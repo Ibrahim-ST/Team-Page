@@ -47,5 +47,33 @@
       "image": "http://www.sciastra.com/new_admin/teams/files/Adityarup_Laha_mathematics.jpg",
       "title": "Public Relations Manager"
     }
+    ,
+    {
+      "name": "Mandar Tornekar",
+      "university": "Communication University",
+      "image": "https://sciastra.com/new_admin//teams/files/Mandar_Tornekar_chemistry.jpg",
+      "title": "Public Relations Manager"
+    }
+    ,
+    {
+      "name": "Vivek Dwivedi",
+      "university": "Cambrige University",
+      "image": "https://sciastra.com/new_admin//teams/files/Saumya_Sharma_mathematics.png",
+      "title": "Public Relations Manager"
+    }
+    ,
+    {
+      "name": "Saumya Shisodiya",
+      "university": "Cambrige University",
+      "image": "https://sciastra.com/new_admin//teams/files/Saumya_Shisodiya_mathematics.jpg",
+      "title": "Public Relations Manager"
+    }
+    ,
+    {
+      "name": "Sagor Rathore",
+      "university": "Cambrige University",
+      "image": "https://sciastra.com/new_admin//teams/files/Sagar_Rathore_physics.jpg",
+      "title": "Public Relations Manager"
+    }
   ]
   

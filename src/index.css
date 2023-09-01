@@ -2,3 +2,14 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer utilities{
+   .custom-border-radius {
+    border-radius: 67% 33% 30% 70% / 30% 30% 70% 70%;
+  }
+  .bg{
+    background: linear-gradient(111.78deg, #234EB0 8.68%, #B656E2 83.64%);
+    border-radius: 67% 33% 30% 70% / 30% 30% 70% 70%;
+  }
+  
+}

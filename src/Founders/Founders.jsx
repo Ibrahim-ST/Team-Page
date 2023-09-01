@@ -11,7 +11,7 @@ const Founders = () => {
         .then(data => setFounderData(data));
      }, [])  
     return (
-        <div className="grid grid-cols-3 gap-2 my-8"> 
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-2 my-8"> 
             {founderData &&
                 founderData.map((data, i) => <FounderCard key={i} data={data}/>)
             }

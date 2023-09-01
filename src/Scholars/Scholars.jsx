@@ -12,7 +12,7 @@ const Scholars = () => {
     return (
         <>
         <p className="text-center my-4">Learn from Scientists, research scholars from the top institutes in the World</p>
-        <div className="grid grid-cols-4 gap-2 my-4">
+        <div className="grid grid-cols-2 md:grid-cols-4 gap-2 my-4">
             {uniData &&            
             uniData.map(data => {
                 return <> 
