@@ -10,7 +10,8 @@ const Team = () => {
         .then(res => res.json())
         .then(data => setTeamData(data));
      }, [])   
-     
+
+     console.log(teamData);
     return (
         <div>
             <div className='max-w-5xl mx-auto my-5 font-poppins'>
